@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bantay_Dagat_Violation_Recorder.iml" filepath="$PROJECT_DIR$/.idea/modules/Bantay_Dagat_Violation_Recorder.iml" group="Bantay_Dagat_Violation_Recorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Bantay Dagat Violation Recorder/app" />
+    </modules>
+  </component>
+</project>
