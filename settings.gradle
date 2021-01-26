@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Bantay Dagat Violation Recorder"
